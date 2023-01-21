@@ -1,0 +1,64 @@
+h1, h2, span {
+	color: red;
+}
+
+div p {
+	font-weight: 600;
+}
+
+ul li>span {
+	font-weight: 600;
+}
+
+ol li + li {
+	list-style: none;
+}
+
+h3 ~ h4 {
+	color: aqua;
+}
+
+.block {
+	width: 150px;
+  	height: 150px;
+  	background-color: aqua;
+  	margin: 10px;
+  	font-size: 24pt;
+}
+
+
+#per {
+	width: 100px;
+  	height: 100px;
+  	background-color: lime;
+  	margin: 10px;
+  	font-size: 24pt;
+}
+
+#vtr {
+	width: 100px;
+  	height: 100px;
+  	background-color: aqua;
+  	margin: 10px;
+  	font-size: 24pt;
+  	border-radius:50px;
+}
+
+#tr {
+	width: 100px;
+  	height: 100px;
+  	background-color: aqua;
+  	margin: 10px;
+  	font-size: 24pt;
+  	border: 4px solid blue;
+}
+
+#cht {
+	width: 100px;
+  	height: 100px;
+  	background-color: aqua;
+  	margin: 10px;
+  	font-size: 24pt;
+  	border: 4px solid blue;
+}
+
